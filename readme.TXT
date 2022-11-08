@@ -1,9 +1,14 @@
 install all libraries
-
+express
+nodemon
+mongoose
+jsonwebtoken
+dotenv
+cors
 
 allow quick fixes in vscode code will run
 
-
+edit mongodb connection string
 
 start server
 
